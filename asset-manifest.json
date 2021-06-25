@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hypster.github.io/markdown-previewer/static/css/main.6b87640a.chunk.css",
+    "main.js": "/hypster.github.io/markdown-previewer/static/js/main.e89d6d2d.chunk.js",
+    "main.js.map": "/hypster.github.io/markdown-previewer/static/js/main.e89d6d2d.chunk.js.map",
+    "runtime-main.js": "/hypster.github.io/markdown-previewer/static/js/runtime-main.7246d9cb.js",
+    "runtime-main.js.map": "/hypster.github.io/markdown-previewer/static/js/runtime-main.7246d9cb.js.map",
+    "static/js/2.7f153638.chunk.js": "/hypster.github.io/markdown-previewer/static/js/2.7f153638.chunk.js",
+    "static/js/2.7f153638.chunk.js.map": "/hypster.github.io/markdown-previewer/static/js/2.7f153638.chunk.js.map",
+    "static/js/3.550344ea.chunk.js": "/hypster.github.io/markdown-previewer/static/js/3.550344ea.chunk.js",
+    "static/js/3.550344ea.chunk.js.map": "/hypster.github.io/markdown-previewer/static/js/3.550344ea.chunk.js.map",
+    "index.html": "/hypster.github.io/markdown-previewer/index.html",
+    "static/css/main.6b87640a.chunk.css.map": "/hypster.github.io/markdown-previewer/static/css/main.6b87640a.chunk.css.map",
+    "static/js/2.7f153638.chunk.js.LICENSE.txt": "/hypster.github.io/markdown-previewer/static/js/2.7f153638.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7246d9cb.js",
+    "static/js/2.7f153638.chunk.js",
+    "static/css/main.6b87640a.chunk.css",
+    "static/js/main.e89d6d2d.chunk.js"
+  ]
+}
